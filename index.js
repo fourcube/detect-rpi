@@ -1,5 +1,5 @@
 var fs = require('fs');
-var PI_MODEL_NO = [ 'BCM2709' ];
+var PI_MODEL_NO = [ 'BCM2708', 'BCM2709', 'BCM2710' ];
 
 function isPi (model) {
   return PI_MODEL_NO.indexOf(model) > -1;
