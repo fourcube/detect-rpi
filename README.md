@@ -18,4 +18,4 @@ if (isPi()) {
 
 ## How?
 
-Reads /proc/cpuinfo and checks if 'Hardware' === 'BCM2709'.
+Reads /proc/cpuinfo and checks if the hardware model is a 'BCM2709'.
