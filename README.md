@@ -1,3 +1,4 @@
+[![npm version](https://badge.fury.io/js/detect-rpi.svg)](https://badge.fury.io/js/detect-rpi)
 # detect-pi
 
 Detect if node is currently running on a raspberry pi.
