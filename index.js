@@ -3,7 +3,8 @@ var PI_MODEL_NO = [
   'BCM2708',
   'BCM2709',
   'BCM2710',
-  'BCM2835'
+  'BCM2835',
+  'BCM2837B0'
 ];
 
 function isPi (model) {
